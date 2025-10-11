@@ -1,6 +1,6 @@
 from typing import Optional
 
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 
 from app.schemas import players as schemas
 from app.services.players.achievements import TransfermarktPlayerAchievements
@@ -11,6 +11,9 @@ from app.services.players.profile import TransfermarktPlayerProfile
 from app.services.players.search import TransfermarktPlayerSearch
 from app.services.players.stats import TransfermarktPlayerStats
 from app.services.players.transfers import TransfermarktPlayerTransfers
+
+from app.services.players.league_injuries import TransfermarktLeagueInjuries
+from app.schemas.players.league_injuries import LeagueInjuriesRequest
 
 router = APIRouter()
 
@@ -69,3 +72,14 @@ def get_player_achievements(player_id: str):
     tfmkt = TransfermarktPlayerAchievements(player_id=player_id)
     player_achievements = tfmkt.get_player_achievements()
     return player_achievements
+
+
+@router.post("/injuries")
+def get_league_injuries(req: LeagueInjuriesRequest):
+    try:
+        svc = TransfermarktLeagueInjuries(URL=str(req.url))#, season=req.season
+        data = svc.get_injuries()
+        return data
+    except Exception as e:
+        # Surface a clean API error (you can add structured logging here)
+        raise HTTPException(status_code=400, detail=str(e))
