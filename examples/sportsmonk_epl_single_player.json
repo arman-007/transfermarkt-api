@@ -1,0 +1,43 @@
+{
+    "_id": {
+        "$oid": "688f4707bd4cf1cc53c2d108"
+    },
+    "api_player_id": 154421,
+    "__v": 0,
+    "city_id": {
+        "$oid": "688f4644bd4cf1cc53c2cf9c"
+    },
+    "common_name": "E. Haaland",
+    "country_id": {
+        "$oid": "688f462cbd4cf1cc53c2cf6c"
+    },
+    "created_at": {
+        "$date": "2025-08-03T11:24:55.279Z"
+    },
+    "date_of_birth": "2000-07-21",
+    "display_name": "Erling Haaland",
+    "first_name": "Erling Braut",
+    "gender": "male",
+    "height": 195,
+    "image": "https://fantasyfootball.sgp1.cdn.digitaloceanspaces.com/EPL/Players/MCI/Haaland.png",
+    "last_name": "Haaland",
+    "name": "Erling Håland",
+    "nationality_id": {
+        "$oid": "688f467ebd4cf1cc53c2d00e"
+    },
+    "position": "Attacker",
+    "position_group": "FWD",
+    "sport_id": {
+        "$oid": "688f462bbd4cf1cc53c2cf6b"
+    },
+    "status": "inactive",
+    "type_id": {
+        "$oid": "688f4565bd4cf1cc53c2c423"
+    },
+    "updated_at": {
+        "$date": "2025-08-03T11:24:55.278Z"
+    },
+    "weight": 87,
+    "price": 14,
+    "image_url": "https://fantasyfootball.sgp1.cdn.digitaloceanspaces.com/EPL/Players/MCI/Haaland.png"
+}

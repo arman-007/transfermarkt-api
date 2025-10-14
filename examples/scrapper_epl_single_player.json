@@ -1,0 +1,1480 @@
+[   // /players/search/{player_name}
+    {
+        "id": "418560",
+        "name": "Erling Haaland",
+        "position": "CF",
+        "club": {
+            "id": "281",
+            "name": "Manchester City"
+        },
+        "age": 25,
+        "nationalities": [
+            "Norway"
+        ],
+        "marketValue": 180000000
+    },
+    // /players/{player_id}/profile
+    {
+        "updatedAt": "2025-10-14T18:47:40.150081",
+        "id": "418560",
+        "url": "https://www.transfermarkt.com/erling-haaland/profil/spieler/418560",
+        "name": "Erling Haaland",
+        "description": "Erling Haaland, 25, from Norway ➤ Manchester City, since 2022 ➤ Centre-Forward ➤ Market value: €180.00m ➤ * 21/07/2000 in Leeds, England",
+        "nameInHomeCountry": "Erling Braut Håland",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/418560-1709108116.png?lm=1",
+        "placeOfBirth": {
+            "city": "Leeds",
+            "country": "England"
+        },
+        "height": 195,
+        "citizenship": [
+            "Norway"
+        ],
+        "isRetired": false,
+        "position": {
+            "main": "Centre-Forward",
+            "other": []
+        },
+        "foot": "left",
+        "shirtNumber": "#9",
+        "club": {
+            "id": "281",
+            "name": "Man City",
+            "joined": "2022-01-07",
+            "contractExpires": "2034-06-30"
+        },
+        "marketValue": 180000000,
+        "agent": {
+            "name": "Rafaela Pimenta",
+            "url": "/rafaela-pimenta/beraterfirma/berater/282"
+        },
+        "outfitter": "Nike",
+        "socialMedia": [
+            "http://twitter.com/ErlingHaaland",
+            "http://www.facebook.com/profile.php?id=100052762394674",
+            "http://instagram.com/erling/"
+        ],
+        "trainerProfile": {},
+        "relatives": [
+            {
+                "id": "107179",
+                "url": "/alf-inge-haaland/profil/spieler/107179",
+                "name": "Alf-Inge Haaland",
+                "profileType": "player"
+            },
+            {
+                "id": "435587",
+                "url": "/jonatan-braut-brunes/profil/spieler/435587",
+                "name": "Jonatan Braut Brunes",
+                "profileType": "player"
+            },
+            {
+                "id": "748755",
+                "url": "/albert-tjaland/profil/spieler/748755",
+                "name": "Albert Tjåland",
+                "profileType": "player"
+            }
+        ]
+    },
+    // /players/{player_id}/market_value
+    {
+        "updatedAt": "2025-10-14T18:50:06.057045",
+        "id": "418560",
+        "marketValue": 180000000,
+        "marketValueHistory": [
+            {
+                "age": 16,
+                "date": "2016-12-18",
+                "clubId": "1057",
+                "clubName": "Bryne FK",
+                "marketValue": 200000
+            },
+            {
+                "age": 17,
+                "date": "2017-12-23",
+                "clubId": "687",
+                "clubName": "Molde FK",
+                "marketValue": 300000
+            },
+            {
+                "age": 18,
+                "date": "2018-10-09",
+                "clubId": "687",
+                "clubName": "Molde FK",
+                "marketValue": 2000000
+            },
+            {
+                "age": 18,
+                "date": "2018-12-30",
+                "clubId": "687",
+                "clubName": "Molde FK",
+                "marketValue": 5000000
+            },
+            {
+                "age": 18,
+                "date": "2019-03-06",
+                "clubId": "409",
+                "clubName": "Red Bull Salzburg",
+                "marketValue": 5000000
+            },
+            {
+                "age": 19,
+                "date": "2019-03-09",
+                "clubId": "409",
+                "clubName": "Red Bull Salzburg",
+                "marketValue": 12000000
+            },
+            {
+                "age": 19,
+                "date": "2019-07-11",
+                "clubId": "409",
+                "clubName": "Red Bull Salzburg",
+                "marketValue": 30000000
+            },
+            {
+                "age": 19,
+                "date": "2019-12-16",
+                "clubId": "409",
+                "clubName": "Red Bull Salzburg",
+                "marketValue": 45000000
+            },
+            {
+                "age": 19,
+                "date": "2020-11-02",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 60000000
+            },
+            {
+                "age": 19,
+                "date": "2020-11-03",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 80000000
+            },
+            {
+                "age": 19,
+                "date": "2020-08-04",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 72000000
+            },
+            {
+                "age": 20,
+                "date": "2020-09-16",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 80000000
+            },
+            {
+                "age": 20,
+                "date": "2020-11-26",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 100000000
+            },
+            {
+                "age": 20,
+                "date": "2021-10-02",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 110000000
+            },
+            {
+                "age": 20,
+                "date": "2021-09-06",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 130000000
+            },
+            {
+                "age": 21,
+                "date": "2021-07-10",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 150000000
+            },
+            {
+                "age": 21,
+                "date": "2021-12-22",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 150000000
+            },
+            {
+                "age": 21,
+                "date": "2022-09-06",
+                "clubId": "16",
+                "clubName": "Borussia Dortmund",
+                "marketValue": 150000000
+            },
+            {
+                "age": 22,
+                "date": "2022-03-11",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 170000000
+            },
+            {
+                "age": 22,
+                "date": "2023-06-20",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 180000000
+            },
+            {
+                "age": 23,
+                "date": "2023-12-19",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 180000000
+            },
+            {
+                "age": 23,
+                "date": "2024-05-27",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 180000000
+            },
+            {
+                "age": 24,
+                "date": "2024-01-10",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 200000000
+            },
+            {
+                "age": 24,
+                "date": "2024-12-16",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 200000000
+            },
+            {
+                "age": 24,
+                "date": "2025-05-30",
+                "clubId": "281",
+                "clubName": "Manchester City",
+                "marketValue": 180000000
+            }
+        ],
+        "ranking": {
+            "Worldwide": 2,
+            "Premier League": 1,
+            "Man City": 1,
+            "Norway": 1,
+            "Centre-Forward": 1,
+            "Year 2000": 1
+        }
+    },
+    // /players/{player_id}/transfers
+    {
+        "updatedAt": "2025-10-14T18:51:50.148164",
+        "id": "418560",
+        "transfers": [
+            {
+                "id": "3845482",
+                "clubFrom": {
+                    "id": "16",
+                    "name": "Dortmund"
+                },
+                "clubTo": {
+                    "id": "281",
+                    "name": "Man City"
+                },
+                "date": "2022-01-07",
+                "upcoming": false,
+                "season": "22/23",
+                "marketValue": 150000000,
+                "fee": 60000000
+            },
+            {
+                "id": "2737490",
+                "clubFrom": {
+                    "id": "409",
+                    "name": "Salzburg"
+                },
+                "clubTo": {
+                    "id": "16",
+                    "name": "Dortmund"
+                },
+                "date": "2020-01-01",
+                "upcoming": false,
+                "season": "19/20",
+                "marketValue": 45000000,
+                "fee": 20000000
+            },
+            {
+                "id": "2230127",
+                "clubFrom": {
+                    "id": "687",
+                    "name": "Molde FK"
+                },
+                "clubTo": {
+                    "id": "409",
+                    "name": "Salzburg"
+                },
+                "date": "2019-01-01",
+                "upcoming": false,
+                "season": "18/19",
+                "marketValue": 5000000,
+                "fee": 8000000
+            },
+            {
+                "id": "1693478",
+                "clubFrom": {
+                    "id": "1057",
+                    "name": "Bryne"
+                },
+                "clubTo": {
+                    "id": "687",
+                    "name": "Molde FK"
+                },
+                "date": "2017-01-02",
+                "upcoming": false,
+                "season": "16/17",
+                "marketValue": 200000,
+                "fee": 100000
+            },
+            {
+                "id": "1673438",
+                "clubFrom": {
+                    "id": "19368",
+                    "name": "Bryne FK Yth."
+                },
+                "clubTo": {
+                    "id": "1057",
+                    "name": "Bryne"
+                },
+                "date": "2015-08-09",
+                "upcoming": false,
+                "season": "15/16"
+            }
+        ],
+        "youthClubs": [
+            "Bryne FK (2006-2015)"
+        ]
+    },
+    // /players/{player_id}/jersey_numbers
+    {
+        "updatedAt": "2025-10-14T18:57:14.458633",
+        "id": "418560",
+        "jerseyNumbers": [
+            {
+                "season": "25/26",
+                "club": "281",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "24/25",
+                "club": "281",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "23/24",
+                "club": "281",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "22/23",
+                "club": "281",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "21/22",
+                "club": "16",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "20/21",
+                "club": "16",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "19/20",
+                "club": "16",
+                "jerseyNumber": 17
+            },
+            {
+                "season": "19/20",
+                "club": "409",
+                "jerseyNumber": 30
+            },
+            {
+                "season": "18/19",
+                "club": "409",
+                "jerseyNumber": 30
+            },
+            {
+                "season": "18/19",
+                "club": "687",
+                "jerseyNumber": 30
+            },
+            {
+                "season": "17/18",
+                "club": "687",
+                "jerseyNumber": 30
+            },
+            {
+                "season": "17/18",
+                "club": "62110",
+                "jerseyNumber": 30
+            },
+            {
+                "season": "16/17",
+                "club": "687",
+                "jerseyNumber": 30
+            },
+            {
+                "season": "15/16",
+                "club": "1057",
+                "jerseyNumber": 19
+            },
+            {
+                "season": "25/26",
+                "club": "3440",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "24/25",
+                "club": "3440",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "23/24",
+                "club": "3440",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "22/23",
+                "club": "3440",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "21/22",
+                "club": "3440",
+                "jerseyNumber": 9
+            },
+            {
+                "season": "20/21",
+                "club": "3440",
+                "jerseyNumber": 23
+            },
+            {
+                "season": "19/20",
+                "club": "3440",
+                "jerseyNumber": 23
+            },
+            {
+                "season": "18/19",
+                "club": "3440",
+                "jerseyNumber": 23
+            },
+            {
+                "season": "18/19",
+                "club": "38740",
+                "jerseyNumber": 19
+            },
+            {
+                "season": "17/18",
+                "club": "16854",
+                "jerseyNumber": 18
+            },
+            {
+                "season": "17/18",
+                "club": "16854",
+                "jerseyNumber": 20
+            },
+            {
+                "season": "17/18",
+                "club": "22515",
+                "jerseyNumber": 19
+            },
+            {
+                "season": "16/17",
+                "club": "26471",
+                "jerseyNumber": 10
+            },
+            {
+                "season": "16/17",
+                "club": "26471",
+                "jerseyNumber": 14
+            }
+        ]
+    },
+    // /players/{player_id}/stats
+    {
+        "updatedAt": "2025-10-14T19:00:25.812315",
+        "id": "418560",
+        "stats": [
+            {
+                "competitionId": "GB1",
+                "competitionName": "Premier League",
+                "seasonId": "25/26",
+                "clubId": "281",
+                "appearances": 7,
+                "goals": 9,
+                "assists": 1,
+                "minutesPlayed": 596
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "25/26",
+                "clubId": "281",
+                "appearances": 2,
+                "goals": 3,
+                "minutesPlayed": 170
+            },
+            {
+                "competitionId": "KLUB",
+                "competitionName": "Club World Cup",
+                "seasonId": "2025",
+                "clubId": "281",
+                "appearances": 4,
+                "goals": 3,
+                "assists": 1,
+                "minutesPlayed": 256
+            },
+            {
+                "competitionId": "GB1",
+                "competitionName": "Premier League",
+                "seasonId": "24/25",
+                "clubId": "281",
+                "appearances": 31,
+                "goals": 22,
+                "assists": 3,
+                "yellowCards": 2,
+                "minutesPlayed": 2
+            },
+            {
+                "competitionId": "FAC",
+                "competitionName": "FA Cup",
+                "seasonId": "24/25",
+                "clubId": "281",
+                "appearances": 3,
+                "goals": 1,
+                "assists": 1,
+                "minutesPlayed": 182
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "24/25",
+                "clubId": "281",
+                "appearances": 9,
+                "goals": 8,
+                "minutesPlayed": 771
+            },
+            {
+                "competitionId": "CGB",
+                "competitionName": "EFL Cup",
+                "seasonId": "24/25",
+                "clubId": "281"
+            },
+            {
+                "competitionId": "GBCS",
+                "competitionName": "Community Shield",
+                "seasonId": "24/25",
+                "clubId": "281",
+                "appearances": 1,
+                "minutesPlayed": 90
+            },
+            {
+                "competitionId": "FAC",
+                "competitionName": "FA Cup",
+                "seasonId": "23/24",
+                "clubId": "281",
+                "appearances": 3,
+                "goals": 5,
+                "minutesPlayed": 254
+            },
+            {
+                "competitionId": "GB1",
+                "competitionName": "Premier League",
+                "seasonId": "23/24",
+                "clubId": "281",
+                "appearances": 31,
+                "goals": 27,
+                "assists": 6,
+                "yellowCards": 1,
+                "minutesPlayed": 2
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "23/24",
+                "clubId": "281",
+                "appearances": 9,
+                "goals": 6,
+                "assists": 1,
+                "minutesPlayed": 779
+            },
+            {
+                "competitionId": "CGB",
+                "competitionName": "EFL Cup",
+                "seasonId": "23/24",
+                "clubId": "281"
+            },
+            {
+                "competitionId": "USC",
+                "competitionName": "UEFA Super Cup",
+                "seasonId": "23/24",
+                "clubId": "281",
+                "appearances": 1,
+                "minutesPlayed": 90
+            },
+            {
+                "competitionId": "GBCS",
+                "competitionName": "Community Shield",
+                "seasonId": "23/24",
+                "clubId": "281",
+                "appearances": 1,
+                "minutesPlayed": 64
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "22/23",
+                "clubId": "281",
+                "appearances": 11,
+                "goals": 12,
+                "assists": 1,
+                "yellowCards": 1,
+                "minutesPlayed": 846
+            },
+            {
+                "competitionId": "FAC",
+                "competitionName": "FA Cup",
+                "seasonId": "22/23",
+                "clubId": "281",
+                "appearances": 4,
+                "goals": 3,
+                "minutesPlayed": 311
+            },
+            {
+                "competitionId": "GB1",
+                "competitionName": "Premier League",
+                "seasonId": "22/23",
+                "clubId": "281",
+                "appearances": 35,
+                "goals": 36,
+                "assists": 8,
+                "yellowCards": 5,
+                "minutesPlayed": 2
+            },
+            {
+                "competitionId": "CGB",
+                "competitionName": "EFL Cup",
+                "seasonId": "22/23",
+                "clubId": "281",
+                "appearances": 2,
+                "goals": 1,
+                "minutesPlayed": 107
+            },
+            {
+                "competitionId": "GBCS",
+                "competitionName": "Community Shield",
+                "seasonId": "22/23",
+                "clubId": "281",
+                "appearances": 1,
+                "minutesPlayed": 90
+            },
+            {
+                "competitionId": "L1",
+                "competitionName": "Bundesliga",
+                "seasonId": "21/22",
+                "clubId": "16",
+                "appearances": 24,
+                "goals": 22,
+                "assists": 8,
+                "yellowCards": 3,
+                "minutesPlayed": 1
+            },
+            {
+                "competitionId": "DFB",
+                "competitionName": "DFB-Pokal",
+                "seasonId": "21/22",
+                "clubId": "16",
+                "appearances": 2,
+                "goals": 4,
+                "minutesPlayed": 180
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "21/22",
+                "clubId": "16",
+                "appearances": 3,
+                "goals": 3,
+                "minutesPlayed": 203
+            },
+            {
+                "competitionId": "DFL",
+                "competitionName": "DFL-Supercup",
+                "seasonId": "21/22",
+                "clubId": "16",
+                "appearances": 1,
+                "minutesPlayed": 90
+            },
+            {
+                "competitionId": "L1",
+                "competitionName": "Bundesliga",
+                "seasonId": "20/21",
+                "clubId": "16",
+                "appearances": 28,
+                "goals": 27,
+                "assists": 8,
+                "yellowCards": 2,
+                "minutesPlayed": 2
+            },
+            {
+                "competitionId": "DFB",
+                "competitionName": "DFB-Pokal",
+                "seasonId": "20/21",
+                "clubId": "16",
+                "appearances": 4,
+                "goals": 3,
+                "assists": 1,
+                "minutesPlayed": 357
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "20/21",
+                "clubId": "16",
+                "appearances": 8,
+                "goals": 10,
+                "assists": 2,
+                "yellowCards": 2,
+                "minutesPlayed": 706
+            },
+            {
+                "competitionId": "DFL",
+                "competitionName": "DFL-Supercup",
+                "seasonId": "20/21",
+                "clubId": "16",
+                "appearances": 1,
+                "goals": 1,
+                "assists": 1,
+                "minutesPlayed": 67
+            },
+            {
+                "competitionId": "L1",
+                "competitionName": "Bundesliga",
+                "seasonId": "19/20",
+                "clubId": "16",
+                "appearances": 15,
+                "goals": 13,
+                "assists": 3,
+                "minutesPlayed": 1
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "19/20",
+                "clubId": "16",
+                "appearances": 2,
+                "goals": 2,
+                "yellowCards": 1,
+                "minutesPlayed": 180
+            },
+            {
+                "competitionId": "DFB",
+                "competitionName": "DFB-Pokal",
+                "seasonId": "19/20",
+                "clubId": "16",
+                "appearances": 1,
+                "goals": 1,
+                "minutesPlayed": 45
+            },
+            {
+                "competitionId": "CL",
+                "competitionName": "Champions League",
+                "seasonId": "19/20",
+                "clubId": "409",
+                "appearances": 6,
+                "goals": 8,
+                "assists": 1,
+                "yellowCards": 1,
+                "minutesPlayed": 374
+            },
+            {
+                "competitionId": "A1",
+                "competitionName": "Bundesliga",
+                "seasonId": "19/20",
+                "clubId": "409",
+                "appearances": 14,
+                "goals": 16,
+                "assists": 6,
+                "yellowCards": 2,
+                "minutesPlayed": 981
+            },
+            {
+                "competitionId": "ofb",
+                "competitionName": "ÖFB-Cup",
+                "seasonId": "19/20",
+                "clubId": "409",
+                "appearances": 2,
+                "goals": 4,
+                "minutesPlayed": 111
+            },
+            {
+                "competitionId": "A1",
+                "competitionName": "Bundesliga",
+                "seasonId": "18/19",
+                "clubId": "409",
+                "appearances": 2,
+                "goals": 1,
+                "minutesPlayed": 82
+            },
+            {
+                "competitionId": "ofb",
+                "competitionName": "ÖFB-Cup",
+                "seasonId": "18/19",
+                "clubId": "409",
+                "appearances": 2,
+                "minutesPlayed": 64
+            },
+            {
+                "competitionId": "EL",
+                "competitionName": "Europa League",
+                "seasonId": "18/19",
+                "clubId": "409",
+                "appearances": 1,
+                "minutesPlayed": 4
+            },
+            {
+                "competitionId": "ELQ",
+                "competitionName": "Europa League Qualifying",
+                "seasonId": "18/19",
+                "clubId": "687",
+                "appearances": 5,
+                "goals": 4,
+                "assists": 1,
+                "yellowCards": 1,
+                "minutesPlayed": 406
+            },
+            {
+                "competitionId": "NO1",
+                "competitionName": "Eliteserien",
+                "seasonId": "2018",
+                "clubId": "687",
+                "appearances": 25,
+                "goals": 12,
+                "assists": 4,
+                "yellowCards": 1,
+                "minutesPlayed": 1
+            },
+            {
+                "competitionId": "19YL",
+                "competitionName": "UEFA Youth League",
+                "seasonId": "17/18",
+                "clubId": "62110",
+                "appearances": 1,
+                "minutesPlayed": 30
+            },
+            {
+                "competitionId": "NO1",
+                "competitionName": "Eliteserien",
+                "seasonId": "2017",
+                "clubId": "687",
+                "appearances": 14,
+                "goals": 2,
+                "assists": 1,
+                "yellowCards": 2,
+                "minutesPlayed": 385
+            },
+            {
+                "competitionId": "NOPO",
+                "competitionName": "NM-Cup",
+                "seasonId": "2017",
+                "clubId": "687",
+                "appearances": 6,
+                "goals": 2,
+                "yellowCards": 2,
+                "minutesPlayed": 259
+            },
+            {
+                "competitionId": "NO45",
+                "competitionName": "Norsk Tipping-Ligaen avd. 5",
+                "seasonId": "2017",
+                "clubId": "35022",
+                "appearances": 4,
+                "goals": 2,
+                "redCards": 1,
+                "minutesPlayed": 225
+            },
+            {
+                "competitionId": "NO2",
+                "competitionName": "OBOS-ligaen",
+                "seasonId": "2016",
+                "clubId": "1057",
+                "appearances": 16,
+                "minutesPlayed": 423
+            }
+        ]
+    },
+    // players/{player_id}/injuries
+    {
+        "updatedAt": "2025-10-14T19:02:33.279091",
+        "id": "418560",
+        "pageNumber": 1,
+        "lastPageNumber": 2,
+        "injuries": [
+            {
+                "season": "24/25",
+                "injury": "Ankle injury",
+                "fromDate": "2025-03-31",
+                "untilDate": "2025-01-05",
+                "days": 32,
+                "gamesMissed": 6,
+                "gamesMissedClubs": [
+                    "281"
+                ]
+            },
+            {
+                "season": "24/25",
+                "injury": "Knee problems",
+                "fromDate": "2025-02-16",
+                "untilDate": "2025-02-25",
+                "days": 10,
+                "gamesMissed": 2,
+                "gamesMissedClubs": [
+                    "281"
+                ]
+            },
+            {
+                "season": "23/24",
+                "injury": "Muscle injury",
+                "fromDate": "2024-04-18",
+                "untilDate": "2024-04-26",
+                "days": 9,
+                "gamesMissed": 2,
+                "gamesMissedClubs": [
+                    "281"
+                ]
+            },
+            {
+                "season": "23/24",
+                "injury": "Stress reaction of the bone",
+                "fromDate": "2023-09-12",
+                "untilDate": "2024-01-31",
+                "days": 54,
+                "gamesMissed": 11,
+                "gamesMissedClubs": [
+                    "281"
+                ]
+            },
+            {
+                "season": "23/24",
+                "injury": "Ankle injury",
+                "fromDate": "2023-11-17",
+                "untilDate": "2023-11-24",
+                "days": 8,
+                "gamesMissed": 1,
+                "gamesMissedClubs": [
+                    "3440"
+                ]
+            },
+            {
+                "season": "23/24",
+                "injury": "Ankle injury",
+                "fromDate": "2023-05-11",
+                "untilDate": "2023-06-11",
+                "days": 2,
+                "gamesMissedClubs": []
+            },
+            {
+                "season": "22/23",
+                "injury": "Groin problems",
+                "fromDate": "2023-03-21",
+                "untilDate": "2023-03-04",
+                "days": 14,
+                "gamesMissed": 3,
+                "gamesMissedClubs": [
+                    "281",
+                    "3440"
+                ]
+            },
+            {
+                "season": "22/23",
+                "injury": "Foot bruise",
+                "fromDate": "2022-10-26",
+                "untilDate": "2022-04-11",
+                "days": 10,
+                "gamesMissed": 2,
+                "gamesMissedClubs": [
+                    "281"
+                ]
+            },
+            {
+                "season": "21/22",
+                "injury": "Ill",
+                "fromDate": "2022-05-05",
+                "untilDate": "2022-05-05",
+                "days": 1,
+                "gamesMissedClubs": []
+            },
+            {
+                "season": "21/22",
+                "injury": "muscular problems",
+                "fromDate": "2022-01-24",
+                "untilDate": "2022-07-03",
+                "days": 43,
+                "gamesMissed": 6,
+                "gamesMissedClubs": [
+                    "16"
+                ]
+            },
+            {
+                "season": "21/22",
+                "injury": "Hip flexor problems",
+                "fromDate": "2021-10-21",
+                "untilDate": "2021-11-25",
+                "days": 36,
+                "gamesMissed": 9,
+                "gamesMissedClubs": [
+                    "16",
+                    "3440"
+                ]
+            },
+            {
+                "season": "21/22",
+                "injury": "muscular problems",
+                "fromDate": "2021-09-23",
+                "untilDate": "2021-11-10",
+                "days": 19,
+                "gamesMissed": 5,
+                "gamesMissedClubs": [
+                    "16",
+                    "3440"
+                ]
+            },
+            {
+                "season": "20/21",
+                "injury": "minor knock",
+                "fromDate": "2021-06-05",
+                "untilDate": "2021-10-05",
+                "days": 5,
+                "gamesMissed": 1,
+                "gamesMissedClubs": [
+                    "16"
+                ]
+            },
+            {
+                "season": "20/21",
+                "injury": "muscular problems",
+                "fromDate": "2021-04-29",
+                "untilDate": "2021-03-05",
+                "days": 5,
+                "gamesMissed": 1,
+                "gamesMissedClubs": [
+                    "16"
+                ]
+            },
+            {
+                "season": "20/21",
+                "injury": "Torn muscle fiber",
+                "fromDate": "2020-11-30",
+                "untilDate": "2020-12-28",
+                "days": 29,
+                "gamesMissed": 7,
+                "gamesMissedClubs": [
+                    "16"
+                ]
+            }
+        ]
+    },
+    // /players/{player_id}/achievements
+    {
+        "updatedAt": "2025-10-14T19:04:12.287277",
+        "id": "418560",
+        "achievements": [
+            {
+                "title": "UEFA Best Player in Europe",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "2023"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Golden Boot winner (Europe)",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Footballer of the Year",
+                "count": 7,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2023",
+                            "name": "2024"
+                        },
+                        "club": {
+                            "id": "3440",
+                            "name": "Norway"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "2023"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "2023"
+                        },
+                        "club": {
+                            "id": "3440",
+                            "name": "Norway"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2021",
+                            "name": "2022"
+                        },
+                        "club": {
+                            "id": "3440",
+                            "name": "Norway"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2020",
+                            "name": "2021"
+                        },
+                        "club": {
+                            "id": "3440",
+                            "name": "Norway"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2019",
+                            "name": "2020"
+                        },
+                        "club": {
+                            "id": "3440",
+                            "name": "Norway"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2018",
+                            "name": "2019"
+                        },
+                        "club": {
+                            "id": "409",
+                            "name": "Red Bull Salzburg"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Top goal scorer",
+                "count": 8,
+                "details": [
+                    {
+                        "competition": {
+                            "id": "UNLB",
+                            "name": "UEFA Nations League B"
+                        },
+                        "season": {
+                            "id": "2024",
+                            "name": "24/25"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "GB1",
+                            "name": "Premier League"
+                        },
+                        "season": {
+                            "id": "2023",
+                            "name": "23/24"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "GB1",
+                            "name": "Premier League"
+                        },
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "CL",
+                            "name": "UEFA Champions League"
+                        },
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "UNLB",
+                            "name": "UEFA Nations League B"
+                        },
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "UNLB",
+                            "name": "UEFA Nations League B"
+                        },
+                        "season": {
+                            "id": "2020",
+                            "name": "20/21"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "CL",
+                            "name": "UEFA Champions League"
+                        },
+                        "season": {
+                            "id": "2020",
+                            "name": "20/21"
+                        }
+                    },
+                    {
+                        "competition": {
+                            "id": "20WC",
+                            "name": "U-20 World Cup 2019"
+                        },
+                        "season": {
+                            "id": "2018",
+                            "name": "18/19"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "TM-Player of the season",
+                "count": 2,
+                "details": [
+                    {
+                        "season": {
+                            "name": "2023"
+                        }
+                    },
+                    {
+                        "season": {
+                            "name": "2020"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "count": 1,
+                "details": [
+                    {
+                        "competition": {
+                            "id": "GB1",
+                            "name": "Premier League"
+                        },
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Champions League winner",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "English Champion",
+                "count": 2,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2023",
+                            "name": "23/24"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "22/23"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2023",
+                            "name": "23/24"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "German cup winner",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2020",
+                            "name": "20/21"
+                        },
+                        "club": {
+                            "id": "16",
+                            "name": "Borussia Dortmund"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2022",
+                            "name": "2023"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "English Super Cup winner",
+                "count": 1,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2024",
+                            "name": "24/25"
+                        },
+                        "club": {
+                            "id": "281",
+                            "name": "Manchester City"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Austrian champion",
+                "count": 2,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2019",
+                            "name": "19/20"
+                        },
+                        "club": {
+                            "id": "409",
+                            "name": "Red Bull Salzburg"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2018",
+                            "name": "18/19"
+                        },
+                        "club": {
+                            "id": "409",
+                            "name": "Red Bull Salzburg"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Austrian cup winner",
+                "count": 2,
+                "details": [
+                    {
+                        "season": {
+                            "id": "2019",
+                            "name": "19/20"
+                        },
+                        "club": {
+                            "id": "409",
+                            "name": "Red Bull Salzburg"
+                        }
+                    },
+                    {
+                        "season": {
+                            "id": "2018",
+                            "name": "18/19"
+                        },
+                        "club": {
+                            "id": "409",
+                            "name": "Red Bull Salzburg"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
