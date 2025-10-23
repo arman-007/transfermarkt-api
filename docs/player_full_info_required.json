@@ -8,7 +8,7 @@
     "display_name": "",
     "goals_scored": 0,  //apifootball
     "assists": 0, //apifootball
-    "saves": 0,
+    "saves": 0, //apifootball
     "yellow_cards": false,  //apifootball
     "red_cards": false, //apifootball
     "yellowred_cards": false,
@@ -16,23 +16,23 @@
     "penalties_saved": 0, //apifootball
     "penalties_missed": 0, //apifootball
     "penalties_scored": 0, //apifootball
-    "penalties_committed": 0,
+    "penalties_committed": 0, //apifootball
     "own_goals": 0,
     "starting_at": 0,
     "minutes_played": 0, //apifootball
-    "successful_passes": 0, 
-    "successful_dribbles": 0,
+    "successful_passes": 0, //apifootball
+    "successful_dribbles": 0, //apifootball
     "error_lead_to_goal": 0,
     "error_lead_to_shot": 0,
-    "shots_off_target": 0,
-    "shots_on_target": 0,
-    "clearances": 0,
-    "shots_blocked": 0,
-    "accurate_crosses": 0,
+    "shots_off_target": 0, //apifootball > total - shots_on_goal
+    "shots_on_target": 0, //apifootball
+    "clearances": 0, //apifootball
+    "shots_blocked": 0, //apifootball
+    "accurate_crosses": 0, //apifootball
     "big_chances_created": 0,
     "long_balls_won": 0,
-    "interceptions": 0,
-    "key_passes": 0,
+    "interceptions": 0, //apifootball
+    "key_passes": 0, //apifootball
     "successful_dribbles": 0, //apifootball
     "through_balls_won": 0,
     "tackles": 0, //apifootball
@@ -48,22 +48,22 @@
     "xG": 0.0,
     "xA": 0.0,
     "xA_per_90": 0.0,
-    "dispossessed": 0,
-    "dribbled_past": 0,
-    "fouls_drawn": 0,
+    "dispossessed": 0, //apifootball
+    "dribbled_past": 0, //apifootball
+    "fouls_drawn": 0, //apifootball
     "recoveries": 0,
     "recoveries_per_90": 0.0,
-    "duels_won": 0,
-    "duels_lost": 0,
-    "aerials_won": 0,
+    "duels_won": 0, //apifootball
+    "duels_lost": 0, //apifootball > have total so. lost = total - won
+    "aerials_won": 0, //apifootball
     "aerials_lost": 0,
-    "blocked_shots": 0,
-    "offsides": 0,
+    "blocked_shots": 0, //apifootball
+    "offsides": 0, //apifootball
     "offsides_provoked": 0,
     "big_chances_missed": 0,
     "price": 0, //transfermarkt-scraper > market value?
-    "player_in_count": 0,
+    "player_in_count": 0, 
     "player_out_count": 0,
     "gameweek_code": 0,
-    "is_home": true
+    "is_home": true //apifootball
 }
